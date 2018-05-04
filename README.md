@@ -1,2 +1,2 @@
 # TacoConf
-This is the 2015 Taco Conf Salt Lake City
+This is the Salt Lake City Taco Conf website
